@@ -51,7 +51,9 @@ $color-primary: red;
     color: @color-second;
     <!-- color: $color-second; -->
   }
+  <!-- more...  -->
 }
 </style>
 ```
 
+### More features...
