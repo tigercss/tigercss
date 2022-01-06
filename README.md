@@ -1,7 +1,7 @@
-# tigercss
+# Tigercss
 Tigercss is a css preprocessor.
 
-You can use like this
+## You can use like this
 
 ### with Tailwindcss and CSS
 ```html
