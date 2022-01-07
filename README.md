@@ -32,7 +32,7 @@ Tigercss is a css preprocessor.
 ### Like Sass and Less
 ```css
 <style>
-<!-- Variables: $ or @ -->
+/* Variables: $ or @ */
 $color-primary: red;
 @color-second: cyan;
 
@@ -41,17 +41,17 @@ $color-primary: red;
   color-gary;
   background: red; 
   
-  <!-- Nested -->
+  /* Nested */
   sapn {
      color-cyan-600;
   }
   
-  <!-- Parent Selectors: &  -->
+  /* Parent Selectors: &  */
   &:p {
     color: @color-second;
-    <!-- color: $color-second; -->
+    /* color: $color-second; */
   }
-  <!-- more...  -->
+  /* more...  */
 }
 </style>
 ```
